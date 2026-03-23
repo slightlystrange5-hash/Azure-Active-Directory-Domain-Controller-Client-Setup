@@ -115,7 +115,12 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Private IP Assignment: **Static**
 4. Save changes
 
-![Static IP Screenshot](images/static-ip.png)
+<img width="1422" height="348" alt="Screenshot 2026-03-22 150004" src="https://github.com/user-attachments/assets/a03f7e23-6e13-48f4-a8a7-d9afaec7346e" />
+<img width="292" height="859" alt="Screenshot 2026-03-22 150022" src="https://github.com/user-attachments/assets/642998bf-421d-47bf-bb62-e396a9396fb1" />
+<img width="623" height="126" alt="Screenshot 2026-03-22 150030" src="https://github.com/user-attachments/assets/4d354922-b741-4e8b-b651-451b6149cf38" />
+<img width="980" height="153" alt="Screenshot 2026-03-22 150037" src="https://github.com/user-attachments/assets/5dbc7e87-348c-4613-9ea7-09c03d103e90" />
+<img width="579" height="889" alt="Screenshot 2026-03-22 150048" src="https://github.com/user-attachments/assets/4c24fb83-3504-4b61-94e4-6368c152e344" />
+
 
 ---
 
@@ -129,8 +134,13 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Public Profile
 
 > ⚠️ Note: This is for lab/testing purposes only.
-
-![Firewall Screenshot](images/firewall.png)
+<img width="411" height="250" alt="Screenshot 2026-03-22 150140" src="https://github.com/user-attachments/assets/d236fe29-c883-4eb3-9758-1496973208c4" />
+<img width="453" height="398" alt="Screenshot 2026-03-22 150149" src="https://github.com/user-attachments/assets/6ed07f67-ca8e-4d0b-a669-588055acc472" />
+<img width="1047" height="787" alt="Screenshot 2026-03-22 150614" src="https://github.com/user-attachments/assets/373923f8-ca8c-4fc7-a60c-619a7064f22e" />
+<img width="471" height="49" alt="Screenshot 2026-03-22 150620" src="https://github.com/user-attachments/assets/9bf35a8f-4e23-4666-a62b-81115c8260a0" />
+<img width="398" height="451" alt="Screenshot 2026-03-22 150643" src="https://github.com/user-attachments/assets/300bfbfa-4856-4f2b-969b-2dc875f79a69" />
+<img width="398" height="454" alt="Screenshot 2026-03-22 150708" src="https://github.com/user-attachments/assets/faa05354-a68d-42a8-9e8b-5f3608891dcd" />
+<img width="401" height="455" alt="Screenshot 2026-03-22 150703" src="https://github.com/user-attachments/assets/1123d18f-2190-4441-bb6b-dd4100e4ad04" />
 
 ---
 
