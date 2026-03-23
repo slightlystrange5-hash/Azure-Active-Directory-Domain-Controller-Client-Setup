@@ -165,7 +165,7 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Password: `Cyberlab123!`
 4. Networking:
    - Same **Region**
-   - Same **Virtual Network (AD-VNet)**
+   - Same **Virtual Network (ADNetwork)**
 5. Click **Review + Create**, then **Create**
  - Again, don't forget to check the Licensing box
 
