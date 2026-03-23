@@ -173,4 +173,16 @@ This project simulates a real-world enterprise environment and demonstrates foun
 
 1. Log into **Client-1 via RDP**
 2. Open **Command Prompt**
-3. Run:
+3. Run: ping DC - 1 Private IP Address
+
+4.  Verify successful replies from DC-1
+
+![Ping Screenshot](images/ping.png)
+
+---
+
+### Step 10: Verify DNS Configuration
+
+1. On Client-1, open **PowerShell**
+2. Run: ipcongig /all
+3. Confirm DNS Server shows DC-1 Private IP Address
