@@ -1,11 +1,11 @@
-# Azure Active Directory Lab: Domain Controller & Client Setup
+# Azure Active Directory: Domain Controller & Client Setup
 
 ---
 
 ## Project Summary
 
 ### Overview
-This project is a **hands-on lab and walkthrough** demonstrating how to deploy a basic Active Directory environment in Microsoft Azure. The lab includes configuring a Windows Server as a Domain Controller and connecting a Windows 10 client machine for network communication and DNS validation.
+This project is a **hands-on walkthrough** demonstrating how to deploy a basic Active Directory environment in Microsoft Azure. The walkthrough includes configuring a Windows Server as a Domain Controller and connecting a Windows 10 client machine for network communication and DNS validation.
 
 This project simulates a real-world enterprise environment and demonstrates foundational IT and system administration skills.
 
