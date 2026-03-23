@@ -1,5 +1,6 @@
+<img width="608" height="384" alt="AD PHOTO" src="https://github.com/user-attachments/assets/502b4431-e80d-48d4-a811-0dff6c499b3a" />
+
 # Azure Active Directory: Domain Controller & Client Setup
-<img width="708" height="484" alt="AD PHOTO" src="https://github.com/user-attachments/assets/502b4431-e80d-48d4-a811-0dff6c499b3a" />
 
 ---
 
