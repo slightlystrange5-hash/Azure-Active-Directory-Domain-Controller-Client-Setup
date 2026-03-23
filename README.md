@@ -64,9 +64,10 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Region: Same region for all resources  
 5. Click **Review + Create**, then **Create**
 
-<img width="1915" height="947" alt="Screenshot 2026-03-22 145320" src="https://github.com/user-attachments/assets/c5da7eb9-5cea-4a36-8f56-3f3bc8e66ce5" />
-
-<img width="810" height="658" alt="Screenshot 2026-03-22 145357" src="https://github.com/user-attachments/assets/8f25c44d-59f1-459a-add4-41dd168c1b7c" />
+<img width="719" height="720" alt="Screenshot 2026-03-23 150736" src="https://github.com/user-attachments/assets/bce6bd8a-d1e0-44f1-bc47-942077b5ecaa" />
+<img width="1644" height="679" alt="Screenshot 2026-03-23 150807" src="https://github.com/user-attachments/assets/533e8b92-471a-4777-afc7-288625f3b638" />
+<img width="850" height="942" alt="Screenshot 2026-03-23 150826" src="https://github.com/user-attachments/assets/4f35b51e-3413-4e74-8063-4178655ea0b2" />
+<img width="616" height="947" alt="Screenshot 2026-03-23 150834" src="https://github.com/user-attachments/assets/42f1839d-34b4-4415-af92-bc7e9fa865d0" />
 
 ---
 
@@ -78,9 +79,11 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Name: `ADNetwork`
 4. Click **Review + Create**, then **Create**
 
-<img width="1433" height="830" alt="Screenshot 2026-03-22 145427" src="https://github.com/user-attachments/assets/b21f613b-5fc9-4a67-a87d-80798fe32ec9" />
+<img width="675" height="883" alt="Screenshot 2026-03-23 150859" src="https://github.com/user-attachments/assets/9ed6eb1a-cb56-4420-864f-b6eebd0bb770" />
+<img width="1465" height="704" alt="Screenshot 2026-03-23 150911" src="https://github.com/user-attachments/assets/05bf89e2-97a6-4044-8123-9914afe90836" />
+<img width="864" height="946" alt="Screenshot 2026-03-23 150925" src="https://github.com/user-attachments/assets/9fcc4f81-2d4f-4257-ade7-f19f25addaf3" />
+<img width="710" height="945" alt="Screenshot 2026-03-23 150933" src="https://github.com/user-attachments/assets/eaa4178e-1fc8-4eef-a695-039c5709d626" />
 
-<img width="894" height="838" alt="Screenshot 2026-03-22 145444" src="https://github.com/user-attachments/assets/a282d28b-7e51-4ac9-a885-e407fbb7bf5c" />
 
 ---
 
@@ -99,10 +102,13 @@ This project simulates a real-world enterprise environment and demonstrates foun
 5. Click **Review + Create**, then **Create**
    -Don't forget to check the licesning box
    
-<img width="1911" height="946" alt="Screenshot 2026-03-22 145629" src="https://github.com/user-attachments/assets/616bc7c1-9547-4986-8c59-b9b68ba6f85c" />
-<img width="912" height="748" alt="Screenshot 2026-03-22 145730" src="https://github.com/user-attachments/assets/fa5d2ac2-b211-4a60-9d36-8aac3bb41121" />
-<img width="840" height="811" alt="Screenshot 2026-03-22 145812" src="https://github.com/user-attachments/assets/86be8824-c17b-4770-83b6-96dfafc7a991" />
-<img width="584" height="228" alt="Screenshot 2026-03-22 145820" src="https://github.com/user-attachments/assets/c54fd522-9d49-4e65-b4f8-fb83c05ee2e5" />
+<img width="630" height="786" alt="Screenshot 2026-03-23 151007" src="https://github.com/user-attachments/assets/97eaede1-3882-4cd0-82b3-85f080decb53" />
+<img width="1531" height="623" alt="Screenshot 2026-03-23 151014" src="https://github.com/user-attachments/assets/4edce75b-9a61-4117-89a4-a316e9a371b5" />
+<img width="459" height="229" alt="Screenshot 2026-03-23 151021" src="https://github.com/user-attachments/assets/a2a241c7-6b43-4d91-868f-e9f4e2c2a71e" />
+<img width="915" height="941" alt="Screenshot 2026-03-23 151100" src="https://github.com/user-attachments/assets/56ef43e5-d361-4b76-86a8-0908b2ddc28a" />
+<img width="823" height="729" alt="Screenshot 2026-03-23 151134" src="https://github.com/user-attachments/assets/30cd0d52-1ba4-4da6-86af-27a175068e4a" />
+<img width="692" height="273" alt="Screenshot 2026-03-23 151146" src="https://github.com/user-attachments/assets/afb1f9aa-516b-43aa-bb57-993364aaa1d8" />
+
 
 
 ---
@@ -115,11 +121,11 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Private IP Assignment: **Static**
 4. Save changes
 
-<img width="1422" height="348" alt="Screenshot 2026-03-22 150004" src="https://github.com/user-attachments/assets/a03f7e23-6e13-48f4-a8a7-d9afaec7346e" />
-<img width="292" height="859" alt="Screenshot 2026-03-22 150022" src="https://github.com/user-attachments/assets/642998bf-421d-47bf-bb62-e396a9396fb1" />
-<img width="623" height="126" alt="Screenshot 2026-03-22 150030" src="https://github.com/user-attachments/assets/4d354922-b741-4e8b-b651-451b6149cf38" />
-<img width="980" height="153" alt="Screenshot 2026-03-22 150037" src="https://github.com/user-attachments/assets/5dbc7e87-348c-4613-9ea7-09c03d103e90" />
-<img width="579" height="889" alt="Screenshot 2026-03-22 150048" src="https://github.com/user-attachments/assets/4c24fb83-3504-4b61-94e4-6368c152e344" />
+<img width="1918" height="698" alt="Screenshot 2026-03-23 151427" src="https://github.com/user-attachments/assets/d5763d29-b374-4e74-8ced-67ef1418a086" />
+<img width="823" height="843" alt="Screenshot 2026-03-23 151507" src="https://github.com/user-attachments/assets/b9d6bb8c-1018-4d53-ba84-2a5cb27acba4" />
+<img width="1324" height="616" alt="Screenshot 2026-03-23 151520" src="https://github.com/user-attachments/assets/87b8ae29-9a97-4b14-8374-6434c62796d3" />
+<img width="1491" height="838" alt="Screenshot 2026-03-23 151533" src="https://github.com/user-attachments/assets/8bc60f70-d9eb-404e-97ac-adc492bba488" />
+<img width="588" height="902" alt="Screenshot 2026-03-23 151559" src="https://github.com/user-attachments/assets/baf39fd9-4c72-45f1-8000-1f14bd2aac85" />
 
 
 ---
@@ -134,13 +140,17 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Public Profile
 
 > ⚠️ Note: This is for lab/testing purposes only.
-<img width="411" height="250" alt="Screenshot 2026-03-22 150140" src="https://github.com/user-attachments/assets/d236fe29-c883-4eb3-9758-1496973208c4" />
-<img width="453" height="398" alt="Screenshot 2026-03-22 150149" src="https://github.com/user-attachments/assets/6ed07f67-ca8e-4d0b-a669-588055acc472" />
-<img width="1047" height="787" alt="Screenshot 2026-03-22 150614" src="https://github.com/user-attachments/assets/373923f8-ca8c-4fc7-a60c-619a7064f22e" />
-<img width="471" height="49" alt="Screenshot 2026-03-22 150620" src="https://github.com/user-attachments/assets/9bf35a8f-4e23-4666-a62b-81115c8260a0" />
-<img width="398" height="451" alt="Screenshot 2026-03-22 150643" src="https://github.com/user-attachments/assets/300bfbfa-4856-4f2b-969b-2dc875f79a69" />
-<img width="398" height="454" alt="Screenshot 2026-03-22 150708" src="https://github.com/user-attachments/assets/faa05354-a68d-42a8-9e8b-5f3608891dcd" />
-<img width="401" height="455" alt="Screenshot 2026-03-22 150703" src="https://github.com/user-attachments/assets/1123d18f-2190-4441-bb6b-dd4100e4ad04" />
+
+<img width="1893" height="461" alt="Screenshot 2026-03-23 151645" src="https://github.com/user-attachments/assets/539e3d6e-f7bb-4de2-af58-f7d7554701c4" />
+<img width="1019" height="403" alt="Screenshot 2026-03-23 151707" src="https://github.com/user-attachments/assets/6f6da4d1-0849-4f38-a08c-545cd1d69e79" />
+<img width="515" height="443" alt="Screenshot 2026-03-23 151728" src="https://github.com/user-attachments/assets/756ba57d-d6e1-4a3d-8b60-ad28df5e962e" />
+<img width="1887" height="1010" alt="Screenshot 2026-03-23 151918" src="https://github.com/user-attachments/assets/faff4397-6a25-4317-a8c2-a289a63ef225" />
+<img width="448" height="211" alt="Screenshot 2026-03-23 152057" src="https://github.com/user-attachments/assets/ee0f4e73-3a7c-4b94-a647-3dd873bd8a2e" />
+<img width="505" height="683" alt="Screenshot 2026-03-23 152117" src="https://github.com/user-attachments/assets/b41919e4-e724-4ca6-a917-929db7bd9227" />
+<img width="399" height="450" alt="Screenshot 2026-03-23 152205" src="https://github.com/user-attachments/assets/9d570589-5871-47e0-b4ca-d7761b8f5cf3" />
+<img width="402" height="454" alt="Screenshot 2026-03-23 152216" src="https://github.com/user-attachments/assets/904d9841-89a0-4851-b42e-5695600b864d" />
+<img width="397" height="457" alt="Screenshot 2026-03-23 152232" src="https://github.com/user-attachments/assets/efd9e9b6-963a-41c5-be96-49fd8f1e10cb" />
+
 
 ---
 
@@ -150,28 +160,38 @@ This project simulates a real-world enterprise environment and demonstrates foun
 2. Click **Create**
 3. Configure:
    - Name: `Client-1`
-   - Image: Windows 10
+   - Image: Windows 11
    - Username: `labuser`
    - Password: `Cyberlab123!`
 4. Networking:
    - Same **Region**
    - Same **Virtual Network (AD-VNet)**
 5. Click **Review + Create**, then **Create**
+ - Again, don't forget to check the Licensing box
 
-![Client VM Screenshot](images/client-vm.png)
+<img width="625" height="783" alt="Screenshot 2026-03-23 153958" src="https://github.com/user-attachments/assets/2a91b03d-6521-4811-9e2b-f80e4193fa73" />
+<img width="1912" height="570" alt="Screenshot 2026-03-23 154007" src="https://github.com/user-attachments/assets/96314029-1609-41d5-b1c5-3de1a025dea3" />
+<img width="861" height="870" alt="Screenshot 2026-03-23 154119" src="https://github.com/user-attachments/assets/e4d7d324-43c8-4523-88a9-20f420b823e1" />
+<img width="858" height="816" alt="Screenshot 2026-03-23 154149" src="https://github.com/user-attachments/assets/60941404-72fb-4d4b-99be-c25e266ee2f8" />
+
 
 ---
 
 ### Step 7: Configure DNS Settings on Client-1
 
-1. Go to **Client-1 → Networking → Network Interface**
-2. Select **DNS Settings**
-3. Choose:
+1. Go to **Client-1 → Networking → Network Settings**
+2. Click the Hyperlink under Network Interface / IP Configuration
+3. Select **DNS Servers**
+4. Choose:
    - **Custom DNS**
    - Enter DC-1’s **Private IP Address**
-4. Save changes
+5. Save changes
 
-![DNS Screenshot](images/dns.png)
+<img width="1913" height="607" alt="Screenshot 2026-03-23 154611" src="https://github.com/user-attachments/assets/d2ff36de-db1f-4772-b579-ad5733819d5b" />
+<img width="1901" height="926" alt="Screenshot 2026-03-23 154932" src="https://github.com/user-attachments/assets/80404f3f-936c-4ec7-8fbd-83cfc2739d15" />
+<img width="1330" height="528" alt="Screenshot 2026-03-23 154937" src="https://github.com/user-attachments/assets/11ec78a2-c5cb-471f-a0ef-1dec37d25110" />
+<img width="992" height="781" alt="Screenshot 2026-03-23 154946" src="https://github.com/user-attachments/assets/4756e85a-9e9d-42f2-b8e4-fd65de1fa507" />
+
 
 ---
 
@@ -181,7 +201,8 @@ This project simulates a real-world enterprise environment and demonstrates foun
    - Select **Client-1**
    - Click **Restart**
 
-![Restart Screenshot](images/restart.png)
+<img width="1910" height="452" alt="Screenshot 2026-03-23 155143" src="https://github.com/user-attachments/assets/2bbdbc75-3332-49bc-b7c4-f625ad555d35" />
+<img width="1874" height="505" alt="Screenshot 2026-03-23 155152" src="https://github.com/user-attachments/assets/0c2efe85-1940-44dd-aa4e-f2e05f27c624" />
 
 ---
 
@@ -193,7 +214,11 @@ This project simulates a real-world enterprise environment and demonstrates foun
 
 4.  Verify successful replies from DC-1
 
-![Ping Screenshot](images/ping.png)
+<img width="1892" height="720" alt="Screenshot 2026-03-23 160044" src="https://github.com/user-attachments/assets/40d766cd-fd3e-42b6-a6ab-dfe7be228dd2" />
+<img width="968" height="813" alt="Screenshot 2026-03-23 155804" src="https://github.com/user-attachments/assets/1057c363-5c62-48d8-a957-0b81177621fb" />
+<img width="1631" height="1011" alt="Screenshot 2026-03-23 155848" src="https://github.com/user-attachments/assets/f474d25b-5e84-4fdb-b12d-3094dd0ef3d0" />
+<img width="1215" height="689" alt="Screenshot 2026-03-23 155919" src="https://github.com/user-attachments/assets/2574364e-f91a-4a13-ba41-8742d24f8482" />
+
 
 ---
 
@@ -202,3 +227,7 @@ This project simulates a real-world enterprise environment and demonstrates foun
 1. On Client-1, open **PowerShell**
 2. Run: ipcongig /all
 3. Confirm DNS Server shows DC-1 Private IP Address
+
+<img width="967" height="823" alt="Screenshot 2026-03-23 160351" src="https://github.com/user-attachments/assets/53ec7feb-33be-4c6e-bfc4-db785bf462da" />
+<img width="1304" height="875" alt="Screenshot 2026-03-23 160416" src="https://github.com/user-attachments/assets/5274416a-3eb1-4a36-baed-8edb5581ae7f" />
+<img width="959" height="595" alt="Screenshot 2026-03-23 160441" src="https://github.com/user-attachments/assets/a71bacad-f2b0-48b0-bce0-3d56c6e26341" />
