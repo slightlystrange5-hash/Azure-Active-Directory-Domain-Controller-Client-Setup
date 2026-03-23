@@ -58,7 +58,7 @@ This project simulates a real-world enterprise environment and demonstrates foun
 2. Navigate to **Resource Groups**  
 3. Click **Create**  
 4. Configure:
-   - Name: `AD-Lab-RG`
+   - Name: `ADResource`
    - Region: Same region for all resources  
 5. Click **Review + Create**, then **Create**
 
