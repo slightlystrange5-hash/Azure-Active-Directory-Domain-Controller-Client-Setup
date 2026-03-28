@@ -36,8 +36,6 @@ This project simulates a real-world enterprise environment and demonstrates foun
 
 ## Media
 
-> Replace the placeholders below with your screenshots.
-
 - Resource Group Creation
 - Virtual Network Configuration
 - Domain Controller VM Setup
